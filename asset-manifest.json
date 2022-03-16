@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/al-quran/static/css/main.e0f56e0e.css",
+    "main.js": "/al-quran/static/js/main.58e40321.js",
+    "static/js/787.19435613.chunk.js": "/al-quran/static/js/787.19435613.chunk.js",
+    "static/media/logo.svg": "/al-quran/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/al-quran/index.html",
+    "main.e0f56e0e.css.map": "/al-quran/static/css/main.e0f56e0e.css.map",
+    "main.58e40321.js.map": "/al-quran/static/js/main.58e40321.js.map",
+    "787.19435613.chunk.js.map": "/al-quran/static/js/787.19435613.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0f56e0e.css",
+    "static/js/main.58e40321.js"
+  ]
+}
